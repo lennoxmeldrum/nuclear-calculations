@@ -1,5 +1,5 @@
 {
-  "name": "",
-  "description": "",
+  "name": "Nuclear Calculations Practice",
+  "description": "An interactive study guide covering 8 nuclear physics calculation topics: Bohr model energy levels, mass defect, binding energy, half-life, nuclear equations, and more. Includes worked examples and multiple-choice practice problems with LaTeX-rendered equations.",
   "requestFramePermissions": []
 }
